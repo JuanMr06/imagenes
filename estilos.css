@@ -105,17 +105,120 @@ body {
 }
 
 .R9{
-  background-image: url(characters/buu.jpg);
-  background-position: center;
-  background-size: 10%;
-  background-attachment: fixed;
   background: radial-gradient(rgb(0, 255, 85), rgb(196, 192, 255))
 }
 .R10{
-  background-image: url(characters/buu.jpg);
-  background-position: center;
-  background-size: 10%;
-  background-attachment: fixed;
-  background: radial-gradient(rgb(255, 0, 200), rgb(196, 192, 255));
+   background: radial-gradient(rgb(255, 0, 200), rgb(196, 192, 255));
   text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
 }
+
+.R11{
+  background: radial-gradient(rgb(255, 0, 98), rgb(13, 216, 6));
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
+  font-family: "Sofia" , sans-serif;
+  }
+
+  .R12 {
+  background: radial-gradient(rgb(255, 0, 98), rgb(27, 0, 27));
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
+  font-family: "Trirong", serif;
+  font-size: 40px ;
+  font-style: oblique ;
+  font-weight: bold ; 
+ 
+  }
+
+   .R13 p{
+  background: radial-gradient(rgb(255, 0, 98), rgb(27, 0, 27));
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
+  font-family: "Trirong", serif;
+  font-size: 40px ;
+  font-style: oblique ;
+  font-weight: bold ; 
+  font-size: 1.3rem ;
+  }
+
+  .R14 {
+   background: radial-gradient(rgb(211, 233, 10), rgb(27, 0, 27));
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
+  font-family: "Trirong", serif;
+  font-size: 40px ;
+  font-style: oblique ;
+  font-weight: bold ; 
+  font-size: 1.3rem ;
+  margin: 1.5em;
+  padding: 2em ;
+  }
+
+  .contenedor_1{
+    font-size: 20px;
+  }
+
+   .contenedor_1 p{
+    font-size: 1.5em;
+  }
+
+   .contenedor_1 h2{
+    font-size: 3rem;
+  }
+
+  .R16 {
+  background: radial-gradient(rgb(137, 138, 133), rgb(27, 0, 27));
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
+  font-family: "Trirong", serif;
+  font-size: 40px ;
+  font-style: oblique ;
+  font-weight: bold ; 
+  font-size: 1.3rem ;
+  margin: 1.5em;
+  padding: 2em ;
+  height: 35vh;
+  width: 70vw;
+  }
+.R17 {
+   background: radial-gradient(rgb(137, 138, 133), rgb(27, 0, 27));
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
+  font-family: "Trirong", serif;
+  font-size: 40px ;
+  font-style: oblique ;
+  font-weight: bold ; 
+  font-size: 1.3rem ;
+  margin: 1.5em;
+  padding: 2em ;
+  height: 25vh;
+  width: 50vw;
+  max-width: 130px ;
+  height: auto;
+  }
+  .R18 {
+   background: radial-gradient(rgb(137, 138, 133), rgb(27, 0, 27));
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  text-shadow: 2px 2px #f5ca0ad0;  
+  font-family: "Trirong", serif;
+  font-size: 40px ;
+  font-style: oblique ;
+  font-weight: bold ; 
+  font-size: 1.3rem ;
+  margin: 1.5em;
+  padding: 2em ;
+  height: 25vh;
+  width: 50vw;
+  max-width: 130px ;
+  height: auto;
+  object-fit: fill;
+  }
