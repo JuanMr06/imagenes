@@ -1,18 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-*{
+* {
   margin: 0;
   padding: 0;
 }
-body{
+
+body {
   font-family: "Montserrat", sans-serif;
 }
-.contenedor{
+
+.contenedor {
   max-width: 1200px;
   margin: 0 auto;
   margin-top: 40px;
 }
-.card{
+
+.card {
   width: 320px;
   background-color: #f2f2f2;
   padding: 10px;
@@ -21,20 +24,98 @@ body{
   border: solid 0.5px #cbc3c3;
   display: inline-block;
 }
-.card img{
+
+.card img {
   display: block;
   max-height: 280px;
   margin: 16px auto;
   filter: drop-shadow(2px 0px 8px #515151);
 }
-.card h2{
+
+.card h2 {
   margin-top: 2px;
   margin-bottom: 8px;
   color: #373737;
   text-align: center;
 }
-.card p{
+
+.card p {
   font-size: 16px;
   color: #515151;
   text-align: center;
+}
+
+.R1 {
+  background-color: #436b91;
+}
+
+.R2 {
+  background-color: rgb(76, 125, 90);
+}
+
+.R2-2 {
+  background-color: rgb(55, 44, 22);
+}
+
+.R2-3 {
+  background-color: rgb(222, 145, 15);
+}
+
+.R2-4 {
+  background-color: rgb(255, 0, 17);
+}
+
+.R2-5 {
+  background-color: rgb(120, 69, 6);
+}
+
+.R3 {
+  background-color: rgba(25, 99, 23, 0.5);
+}
+
+.R4 {
+  background-image: url(characters/buu.jpg);
+
+}
+
+.R5 {
+  background-image: url(characters/buu.jpg);
+  background-position: center;
+}
+
+.R6 {
+  background-image: url(characters/buu.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.R7{
+  background-image: url(characters/buu.jpg);
+  background-position: center;
+  background-size: 10%;
+  background-attachment: fixed;
+}
+
+.R8{
+   background-image: url(characters/buu.jpg);
+  background-position: center;
+  background-size: 10%;
+  background-attachment: fixed;
+  background: linear-gradient(blue, pink)
+}
+
+.R9{
+  background-image: url(characters/buu.jpg);
+  background-position: center;
+  background-size: 10%;
+  background-attachment: fixed;
+  background: radial-gradient(rgb(0, 255, 85), rgb(196, 192, 255))
+}
+.R10{
+  background-image: url(characters/buu.jpg);
+  background-position: center;
+  background-size: 10%;
+  background-attachment: fixed;
+  background: radial-gradient(rgb(255, 0, 200), rgb(196, 192, 255));
+  text-transform: uppercase;
 }
